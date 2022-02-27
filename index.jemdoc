@@ -1,43 +1,34 @@
 # jemdoc: menu{MENU}{index.html}, showsource
-= Sepideh Abdollahi
+= AmirPouya Moeini
 
-
+~~~
+{}{img_left}{./images/me.png}{AmirPouya Moeini}{150}{200}
 
 B.Sc. Student\n
 Physics\n
 [http://www.en.sharif.edu/ Sharif University of Technology]\n\n
-[https://www.linkedin.com/in/sepideh-abdollahi-694878149/ My Linkedin]\n\n
 Email: [mailto:sep.abdollahi@sharif.edu]\n
-Gmail : [mailto:sepideh.ab2000@gmail.com]\n
+Gmail (preferred): [mailto:sepideh.ab@gmail.com]\n
+phone: +989109204264\n
 ~~~
 
 \n
 == About me
-Hi! I am AmirPouya but it's just my formal name and I'm always called Pouya.
-I am currently a fourth-year undergrad in Computer Engineering and Mathematics (Minor) at the [https://en.sharif.edu/ Sharif University of Technology]. 
-I am broadly interested in the theoretical aspects of Statistics and Information theory and  I enjoy researching how they can be used to solve problems in various fields.
-I am planning to pursue my career in the academic area, and study Statistics with a focus on the below topics.
+Hi! I am Sepideh, a 22 years old Physics student from Tehran, Iran. I am an undergrad at the Sharif University of Technology, and It is in my fourth year now.
+The most significant part of learning for me is seeing examples and applications of theoretical physics
+and the most recent work and hot topics worldwide.I find that nothing is more rewarding than approaching a problem in a way that no one has done before and making a step forward toward solving that problem.
 
 === Research Interests
-- Information theory
-- High-Dimensional Statistics
 - Quantum Information and Computation
-- Statistical and Theoretical Machine Learning
-- Information-Theoretic Methods in Machine Learning and Statistics
-- Graphical Models
+- Information theory
+- Complex Systems        
+- Neuronal Dynamics
+- Nonlinear Dynamics and Chaos
+- Computational Physics
+- Stochastic processes
 
 \n
 Recently I've worked on:
-- Information-theoric bounds for Online learning problem (B.Sc thesis)
+- Critical behavior of a small-world sandpile Manna model (B.Sc thesis)
 - Calculating capacity of (Symmetric and Covariant) Pauli Channels
-- Information-theoric methods in Estimation problem
-- Fair Private Meta-Learning Approach for Distributed Data Personalization
-
-
-
-
-\n
-== {{}}
-/A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful;  and there were no general indications that it ever would be so./
-
-/- John von Neumann/
+- How observation reflects reality of SIR dynamics
