@@ -6,25 +6,25 @@ Breif summary of courses I was TA.\n
 *Statistical Modeling*: (Ph dep, MSc & Course NO. 24-140) (Spring 2020)
 - Instructor: [http://physics.sharif.ir/~web/fakhteh-ghanbarnejad-2/ Dr.Fakhteh Ghanbarnejad]
 - Description: This is a MSc level course that includes topics such as:
- SIR, SEIR and SIRD models and phase transitions
- Simulation of epidemics on networks(SIR, SEIR, SIS dynamics)
- Simulation of epidemics in metapopulations
- Agent Based Modeling
+ -- SIR, SEIR and SIRD models and phase transitions
+ -- Simulation of epidemics on networks(SIR, SEIR, SIS dynamics)
+ -- Simulation of epidemics in metapopulations
+ -- Agent Based Modeling
 - Designer and Grader of aforesaid topics for homework assignments, quizzes and midterm and final exams
 \n\n
 
 *Stochastic Processes in Bioinformatics*: (CE dep, MSc & Course NO. 40-556) (Spring 2022)
 - Instructor: [http://sharif.edu/~rohban/ Dr.Mohammad Hossein Rohban]
 - Description: This is a MSc level course that includes topics such as:
-Statistics and Probability
-Stationary processes
-Ergodic processess
-General birth and death processes
-SIR, SEIR and SIRD models
-Branching Processes
-Markov processes
-Brownian motions 
-Numerical solution of stochastic differential eq
+-- Statistics and Probability
+-- Stationary processes
+-- Ergodic processess
+-- General birth and death processes
+-- SIR, SEIR and SIRD models
+-- Branching Processes
+-- Markov processes
+-- Brownian motions 
+-- Numerical solution of stochastic differential eq
 - Designer and Grader of following topics for homework assignments, quizzes ,midterm exam and
 Statistics and Probability
 SIR, SEIR and SIRD models
@@ -37,15 +37,15 @@ Numerical solution of stochastic differential eq
 *Game Theory*: (Econ dep, MSc & Course NO. 44-625) (Spring 2022)
 - Instructor: [http://gsme.sharif.edu/~rahmati/ Dr.Mohammad Hossein Rahmati]
 - Description: This is a MSc level course that includes topics such as:
-Simultaneous game
-Nash equilibrium
-Correlated games
-Dynamic games
-Backward and forward induction
-Perfect equilibrium
-Refinement in equilibrium
-Bayesian equilibrium
-Sequential equilibrium
+-- Simultaneous game
+-- Nash equilibrium
+-- Correlated games
+-- Dynamic games
+-- Backward and forward induction
+-- Perfect equilibrium
+-- Refinement in equilibrium
+-- Bayesian equilibrium
+-- Sequential equilibrium
 - Grader of aforesaid topics for homework assignments, quizzes ,midterm and final exams
 \n\n
 
