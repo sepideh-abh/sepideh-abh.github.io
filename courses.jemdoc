@@ -1,0 +1,92 @@
+# jemdoc: menu{MENU}{courses.html}, showsource
+= Courses descriptions
+
+This is a list of the major-related courses (labs, workshops, human sociology, theology) I took over my undergraduate studies at the Sharif University of Technology, and their grades are available on my transcript file (available upon request.).
+
+== Notable Courses
+Following courses were related to my main research interests, and most of them were graduate courses.\n\n
+
+
+*QUANTUM COMPUTING* : /(Physics Dep & PhD course, Course NO. 24-317, 4 units)/
+- Instructor: [http://physics.sharif.edu/~vahid/index.html Prof. Vahid Karimipour]
+- Grade: TBA
+- Description: This is a Ph.D. course that explored the foundation of quantum computing and information. As this is a multidisciplinary subject, the course covered basic concepts in theoretical computer science and physics and introduced core quantum computing topics. Topics that covered are
+-- Mathematical prerequisites for quantum mechanics and basics of quantum mechanics
+-- Density matrices
+-- Simple quantum information processin
+-- Simple Quantum Algorithms
+-- Reversible Classcial Computation
+-- Quantum Circuits
+-- Quantum Search Algorithm
+-- Factoring Algorithm
+-- Theory of Computation
+-- Quantum Error Correcting Codes
+-- Generalized Measurements
+-- Measures of Distance and Fidelity
+-- Topological Quantum Computation
+- Reference Books:
+-- Quantum Computation and Quantum Information, by Michael A. Nielsen and Isaac L. Chuang, Cambridge University Press (2004).
+-- From Classical to Quantum Shannon Theory, Mark M. Wilde, Cambridge University Press. (2019).
+-- Geometry of Quantum States: An Introduction to Quantum Entanglement, Ingemar Bengtsson, Karol Życzkowski (2007).
+-- Principles of Quantum Communication Theory: A Modern Approach, Sumeet Khatri and Mark M. Wilde (2021)\n\n\n\n
+
+
+*INFORMATION THEORY * /(EE Dep & MSc course, Course NO. 25-128, 3 units)/
+- Instructor: [https://mahdi.jafari.siavoshani.ir/ Dr. Mahdi Jafari Siavoshani]
+- Grade: 19.6/20
+- Description: This courese is a MSc level course that includes topics such as:
+-- Entropy, Relative Entropy, and Mutual Information
+-- Markov Chains
+-- Entropy Rate
+-- Data Compression
+-- Optimal Codes
+-- Huffman Codes
+-- Channel Capacity
+-- Differential Entropy
+-- Gaussian Channel
+-- Network Information Theory
+- Reference Books:
+-- Joy A. Thomas and Thomas M. Cover Elements of Information Theory 2nd Edition.
+-- Robert B Ash, Information Theory, Dover Publications
+- Course project: My project for this course was the capacity of classical-quantum channels. Because of that, I studied almost twenty chapters of From Classical to Quantum Shannon Theory by Mark M. Wilde.
+You can see my project [https://drive.google.com/file/d/1JxNySUpNP8anolCN5Zwc5QwiU7bGOtjR/view?usp=sharing here].
+\n\n\n\n
+
+
+*Stochastic Processes* : /(Math Dep, Course NO. 22-635, 4 units)/
+- Instructor: [http://math.sharif.ir/faculties/zadeh Dr. Mostafa Esfahani Zadeh]
+- Grade: 18.9/20
+- Description: This courses is a compact introduction to Stochastic Processes aiming to familiarize students with fundamental concepts such as Markov Processes (Finite, Countable, Continuous-Time), Optimal Stopping, Martingales, Renewal Processes, Reversible Markov Chains, Brownian Motion, and more advanced ones such as Stochastic Integration and Itô Calculus
+- Reference Books:
+-- G. F. Lawler, Introduction to Stochastic Processes, 2nd Edition\n\n\n\n
+
+*Statistical Modeling*: /(Ph dep, MSc & Course NO. 24-140)/
+- Instructor: [http://physics.sharif.ir/~web/fakhteh-ghanbarnejad-2/ Dr.Fakhteh Ghanbarnejad]
+- Grade: 20/20
+- Description: This is a MSc level course that includes topics such as:
+-- SIR, SEIR and SIRD models and phase transitions
+-- Simulation of epidemics on networks(SIR, SEIR, SIS dynamics)
+-- Simulation of epidemics in metapopulations
+-- Agent Based Modeling
+- Reference Book:
+-- Matt Keeling and Pejman Rohani, Modeling Infectious Diseases in Humans and Animals
+- Course project:How observation reflects reality of SIR dynamics. This project became a
+ research project and we are still working on it with [http://physics.sharif.ir/~web/fakhteh-ghanbarnejad-2/ Dr. Fakhteh Ghanbarnejad]
+ and [https://scholar.google.com/citations?user=PhGbWiIAAAAJ&hl=en Dr. Farnoush Farahpour] 
+\n\n\n
+
+*Game Theory*: (Econ dep, MSc & Course NO. 44-625) 
+- Instructor: [http://gsme.sharif.edu/~rahmati/ Dr.Mohammad Hossein Rahmati]
+- Grade: 20/20
+- Description: This is a MSc level course that includes topics such as:
+-- Simultaneous game
+-- Nash equilibrium
+-- Correlated games
+-- Dynamic games
+-- Backward and forward induction
+-- Perfect equilibrium
+-- Refinement in equilibrium
+-- Bayesian equilibrium
+-- Sequential equilibrium
+\n\n\n
+
