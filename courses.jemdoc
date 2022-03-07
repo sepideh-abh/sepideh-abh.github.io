@@ -10,7 +10,8 @@ Following courses were related to my main research interests, and most of them w
 *QUANTUM COMPUTING* : /(Physics Dep & PhD course, Course NO. 24-317, 4 units)/
 - Instructor: [http://physics.sharif.edu/~vahid/index.html Prof. Vahid Karimipour]
 - Grade: TBA
-- Description: This is a Ph.D. course that explored the foundation of quantum computing and information. As this is a multidisciplinary subject, the course covered basic concepts in theoretical computer science and physics and introduced core quantum computing topics. Topics that covered are
+- Description: This is a Ph.D. course that explored the foundation of quantum computing and information. As this is a multidisciplinary subject,
+ the course covered basic concepts in theoretical computer science and physics and introduced core quantum computing topics. Topics that covered are
 -- Mathematical prerequisites for quantum mechanics and basics of quantum mechanics
 -- Density matrices
 -- Simple quantum information processin
@@ -30,10 +31,12 @@ Following courses were related to my main research interests, and most of them w
 -- Geometry of Quantum States: An Introduction to Quantum Entanglement, Ingemar Bengtsson, Karol Życzkowski (2007).
 -- Principles of Quantum Communication Theory: A Modern Approach, Sumeet Khatri and Mark M. Wilde (2021)\n\n\n\n
 
-*ADVANCED QUANTUM MECHANICS * /(EE Dep & MSc course, Course NO. 25-128, 4 units)/
+*ADVANCED QUANTUM MECHANICS * /(Physics Dep & MSc course, Course NO. 24-319, 4 units)/
 - Instructor: [https://scholar.google.fr/citations?user=JWpfCWsAAAAJ&hl=en Dr. Amin Faraji Astaneh]
 - Grade: 18.5/20
-- Description: This courese is a MSc level course that includes topics such as:
+- Description: This courese is a MSc level course and can be taken after QUANTUM MECHANICS I & II which I took 
+whit [http://physics.sharif.ir/~web/vaezi/ Dr. Abolhassan Vaezi]. Also you can find QUANTUM MECHANICS I & II included topics [http://physics.sharif.edu/~vahid/teachingQM.html here].\n
+ADVANCED QUANTUM MECHANICS includes topics such as:
 -- Time Evolution 
 -- Passive and Active Transformation
 -- Propagator
@@ -78,14 +81,30 @@ You can see my project [https://drive.google.com/file/d/1JxNySUpNP8anolCN5Zwc5Qw
 \n\n\n\n
 
 
-*Stochastic Processes* : /(Math Dep, Course NO. 22-635, 4 units)/
+*STOCHASTIC PROCESSES* : /(Math Dep, Course NO. 22-635, 4 units)/
 - Instructor: [http://math.sharif.ir/faculties/zadeh Dr. Mostafa Esfahani Zadeh]
 - Grade: 18.9/20
 - Description: This courses is a compact introduction to Stochastic Processes aiming to familiarize students with fundamental concepts such as Markov Processes (Finite, Countable, Continuous-Time), Optimal Stopping, Martingales, Renewal Processes, Reversible Markov Chains, Brownian Motion, and more advanced ones such as Stochastic Integration and Itô Calculus
 - Reference Books:
 -- G. F. Lawler, Introduction to Stochastic Processes, 2nd Edition\n\n\n\n
 
-*Statistical Modeling*: /(Ph dep, MSc & Course NO. 24-140)/
+*COMPLEX SYSTEMS*: /(Ph dep, MSc & Course NO. 24-140, 3 units)/
+- Instructor: [http://physics.sharif.ir/~web/fakhteh-ghanbarnejad-2/ Dr.Fakhteh Ghanbarnejad]
+- Grade: 19.5/20
+- Description: This is a MSc level course that includes topics such as:
+-- SIR, SEIR and SIRD models and phase transitions
+-- Simulation of epidemics on networks(SIR, SEIR, SIS dynamics)
+-- Simulation of epidemics in metapopulations
+-- Agent Based Modeling
+- Reference Book:
+-- Matt Keeling and Pejman Rohani, Modeling Infectious Diseases in Humans and Animals
+- Course project:How observation reflects reality of SIR dynamics. This project became a
+ research project and we are still working on it with [http://physics.sharif.ir/~web/fakhteh-ghanbarnejad-2/ Dr. Fakhteh Ghanbarnejad]
+ and [https://scholar.google.com/citations?user=PhGbWiIAAAAJ&hl=en Dr. Farnoush Farahpour] 
+\n\n\n
+
+
+*Statistical Modeling*: /(Ph dep, MSc & Course NO. 24-140, 3 units)/
 - Instructor: [http://physics.sharif.ir/~web/fakhteh-ghanbarnejad-2/ Dr.Fakhteh Ghanbarnejad]
 - Grade: 20/20
 - Description: This is a MSc level course that includes topics such as:
@@ -100,7 +119,7 @@ You can see my project [https://drive.google.com/file/d/1JxNySUpNP8anolCN5Zwc5Qw
  and [https://scholar.google.com/citations?user=PhGbWiIAAAAJ&hl=en Dr. Farnoush Farahpour] 
 \n\n\n
 
-*Game Theory*: /(Econ dep, MSc & Course NO. 44-625)/ 
+*Game Theory*: /(Econ dep, MSc & Course NO. 44-625, 3 units)/ 
 - Instructor: [http://gsme.sharif.edu/~rahmati/ Dr.Mohammad Hossein Rahmati]
 - Grade: 20/20
 - Description: This is a MSc level course that includes topics such as:
