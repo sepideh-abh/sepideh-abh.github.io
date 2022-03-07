@@ -3,7 +3,7 @@
 
 
 
-== Calculating capacity of (Symmetric and Covariant) Pauli Channels
+== Calculating Capacity of (Symmetric and Covariant) Pauli Channels
 \n
 In this project we are trying to solving the Quantum Capacities of (Symmetric & Covariant) Pauli Channels. 
 Usually, calculating the classical and quantum capacities of quantum channels is very difficult. Because unlike the classical version of 
@@ -13,4 +13,13 @@ on these quantities is very proper and helpful. If quantum channels have some sp
 We have considered one additional assumption and that is the channel is degradable and also we are working to extend it to higher dimensions.
 \n
 - under supervision of [http://physics.sharif.edu/~vahid/ Prof. Vahid Karimipour]
+\n\n
+
+== How Observation Reflects Reality of SIR Dynamic
 \n
+ In this work, we want to show how to estimate the real epidemic dynamics with a random sampling at a macroscopic level.We developed a mathematical 
+model based on SIR dynamics and introduced a quantitative method on how to extract information from the empirical data, i.e. daily test's results and
+ to use it for this estimation. Moreover, we show the impact of daily test capacity on the estimation of reality.
+\n
+- under supervision of [http://physics.sharif.ir/~web/fakhteh-ghanbarnejad-2/ Dr.Fakhteh Ghanbarnejad]
+and on collaboration with [https://scholar.google.com/citations?user=PhGbWiIAAAAJ&hl=en Dr. Farnoush Farahpour]
