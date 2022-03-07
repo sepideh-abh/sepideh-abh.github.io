@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{courses.html}, showsource
+= Research Experience
+
+
+
+== Calculating Capacity of (Symmetric and Covariant) Pauli Channels
+\n
+In this project we are trying to solving the Quantum Capacities of (Symmetric & Covariant) Pauli Channels. 
+Usually, calculating the classical and quantum capacities of quantum channels is very difficult. Because unlike the classical version of 
+Information theory that capacity’s formula by Shannon’s second theorem is well-defined and easy to calculate, in quantum setting additivity 
+doesn't hold and for the classical data, the capacity of the channel is equal to asymptotic of Holeve information. So providing tight bounds
+on these quantities is very proper and helpful. If quantum channels have some specific properties, calculating the capacity becomes much more accessible.
+We have considered one additional assumption and that is the channel is degradable and also we are working to extend it to higher dimensions.
+\n
+- under supervision of [http://physics.sharif.edu/~vahid/ Prof. Vahid Karimipour]
+\n
+
+==How Observation Reflects Reality of SIR Dynamic
