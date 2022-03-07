@@ -21,5 +21,4 @@ We have considered one additional assumption and that is the channel is degradab
 model based on SIR dynamics and introduced a quantitative method on how to extract information from the empirical data, i.e. daily test's results and
  to use it for this estimation. Moreover, we show the impact of daily test capacity on the estimation of reality.
 \n
-- under supervision of [http://physics.sharif.ir/~web/fakhteh-ghanbarnejad-2/ Dr.Fakhteh Ghanbarnejad]
-and on collaboration with [http://physics.sharif.ir/~web/fakhteh-ghanbarnejad-2/ Dr.Fakhteh Ghanbarnejad]
+- under supervision of [http://physics.sharif.ir/~web/fakhteh-ghanbarnejad-2/ Dr.Fakhteh Ghanbarnejad] and on collaboration with [https://scholar.google.com/citations?user=PhGbWiIAAAAJ&hl=en Dr.Farnoush Farahpour]
