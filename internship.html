@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Internship</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Info</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="./CV.pdf">CV</a></div>
+<div class="menu-category">Experience</div>
+<div class="menu-item"><a href="courses.html" class="current">Courses</a></div>
+<div class="menu-item"><a href="teaching.html">Teaching</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="research.html">Research</a></div>
+<div class="menu-item"><a href="project.html">Projects</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Internship</h1>
+<div id="subtitle"><br /><br />
+</div>
+</div>
+<p><a href="https://physinfo.fr/" target=&ldquo;blank&rdquo;>Quantum Circuit Group</a>, Lyon, France, was the site of my internship from July to October 2022. I had a chance to take a look at all the parts of a Superconducting Circuit, learn from the bests in the field and work with the Quantum Machine.
+</p>
+<p>Here is the list of my tasks with some brief descriptions:<br />
+</p>
+<p>1) Simulation photon dissipation in the  Rotating Wave Approximation (RWA) of The Jaynes-Cumming model:<br />
+For this simulation, I mainly used the QuTip toolbox in Python.
+</p>
+<p>2) Using the GRAPE algorithm to find the control pulses in a qubit-cavity system to reach an arbitrary fock state:<br />
+To ensure the control pulses would work in the experiment, I had to check the fidelity for the target state and the final state after implementing the control pulses considering dissipation, frequency filtering bond, and the delay due to the difference in wires&rsquo; length. Also, it's necessary to simulate high dimensional Hilbert space for the cavity so the high fock states won't get populated.
+For this simulation, I mainly used the QuTip toolbox in Python.
+</p>
+<p>3) Finding the qubit-cavity system parameters:<br />
+To generate accurate control pulses, the system's parameters must be determined. The RWA of the system's hamiltonian only has a coupling part, so the final goal is to find the coupling constant. To determine the coupling constant, the readout resonator frequency, the cavity resonance frequency, and the transmon (qubit) frequency must be determined.
+I used QUA language and the OPX to run the experiments.
+</p>
+<p>4) Find the translation between the simulation and the experiment:<br />
+A comparison of the displacement plots as a function of amplitude, from the experiment and the simulation, helped me find the right translation for storage pulses. Also, I calculated the translation for the qubit control pulses by using the Rabi frequency.
+</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2022-10-13 03:13:18 Iran Standard Time, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+(<a href="internship.jemdoc">source</a>)
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
