@@ -7,19 +7,19 @@
 
 Here is the list of my tasks with some brief descriptions:\n
 
-- 1) Simulation photon dissipation in the  Rotating Wave Approximation (RWA) of The Jaynes-Cumming model:\n
+- *Simulation photon dissipation in the  Rotating Wave Approximation (RWA) of The Jaynes-Cumming model*:\n\n
+-- For this simulation, I mainly used the QuTip toolbox in Python.
+
+- *Using the GRAPE algorithm to find the control pulses in a qubit-cavity system to reach an arbitrary fock state*:\n\n
+-- To ensure the control pulses would work in the experiment, I had to check the fidelity for the target state and the final state after implementing the control pulses considering dissipation, frequency filtering bond, and the delay due to the difference in wires' length. Also, it's necessary to simulate high dimensional Hilbert space for the cavity so the high fock states won't get populated.
 For this simulation, I mainly used the QuTip toolbox in Python.
 
-- 2) Using the GRAPE algorithm to find the control pulses in a qubit-cavity system to reach an arbitrary fock state:\n
-To ensure the control pulses would work in the experiment, I had to check the fidelity for the target state and the final state after implementing the control pulses considering dissipation, frequency filtering bond, and the delay due to the difference in wires' length. Also, it's necessary to simulate high dimensional Hilbert space for the cavity so the high fock states won't get populated.
-For this simulation, I mainly used the QuTip toolbox in Python.
-
-- 3) Finding the qubit-cavity system parameters:\n
-To generate accurate control pulses, the system's parameters must be determined. The RWA of the system's hamiltonian only has a coupling part, so the final goal is to find the coupling constant. To determine the coupling constant, the readout resonator frequency, the cavity resonance frequency, and the transmon (qubit) frequency must be determined.
+- *Finding the qubit-cavity system parameters*:\n\n
+-- To generate accurate control pulses, the system's parameters must be determined. The RWA of the system's hamiltonian only has a coupling part, so the final goal is to find the coupling constant. To determine the coupling constant, the readout resonator frequency, the cavity resonance frequency, and the transmon (qubit) frequency must be determined.
 I used QUA language and the OPX to run the experiments.
 
-- 4) Find the translation between the simulation and the experiment:\n
-A comparison of the displacement plots as a function of amplitude, from the experiment and the simulation, helped me find the right translation for storage pulses. Also, I calculated the translation for the qubit control pulses by using the Rabi frequency.
+- *Find the translation between the simulation and the experiment*:\n\n
+-- A comparison of the displacement plots as a function of amplitude, from the experiment and the simulation, helped me find the right translation for storage pulses. Also, I calculated the translation for the qubit control pulses by using the Rabi frequency.
 
 
 
