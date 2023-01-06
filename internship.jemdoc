@@ -21,6 +21,8 @@ I used QUA language and the OPX to run the experiments.
 - *Find the translation between the simulation and the experiment*:\n\n
 -- A comparison of the displacement plots as a function of amplitude, from the experiment and the simulation, helped me find the right translation for storage pulses. Also, I calculated the translation for the qubit control pulses by using the Rabi frequency.
 
+You can find a brief presentation of my work [https://drive.google.com/file/d/1WwLjIKlmSHBnTkQampGex6FX_7BkoLoc/view?usp=sharing here].
+
 
 
  
